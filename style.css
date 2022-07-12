@@ -145,9 +145,9 @@ form input[type="submit"]:hover {
 }
 
 .footer .social-field.twitter {
-    background: linear-gradient(to right, #56a7f2, #468aca);
+    background: linear-gradient(to right, #00BFFF, #87CEFA);
 }
 
 .footer .social-field.facebook {
-    background: linear-gradient(to right, #1e3c72, #2a5298);
+    background: linear-gradient(to right, #87CEEB, #ADD8E6);
 }
