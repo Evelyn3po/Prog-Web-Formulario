@@ -19,7 +19,7 @@ body {
 }
 
 main.container {
-    background: navy;
+    background: darkslateblue;
     min-width: 320px;
     min-height: 40vh;
     padding: 2rem;
@@ -101,7 +101,7 @@ form input[type="submit"] {
     width: 100%;
     background: linear-gradient(to left, #0000CD, #00008B);
     cursor: pointer;
-    color: navy;
+    color: darkslateblue;
     font-size: 0.9rem;
     font-weight: 300;
     border-radius: 4px;
@@ -141,7 +141,7 @@ form input[type="submit"]:hover {
 
 .footer .social-field a {
     text-decoration: none;
-    color: navy;
+    color: darkslateblue;
 }
 
 .footer .social-field.twitter {
